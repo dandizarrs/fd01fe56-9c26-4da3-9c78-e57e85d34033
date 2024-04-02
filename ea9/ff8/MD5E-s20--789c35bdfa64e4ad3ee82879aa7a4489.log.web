@@ -1,0 +1,6 @@
+1712055823.885404953s 1 https://dandiarchive.s3.amazonaws.com/zarr/fd01fe56-9c26-4da3-9c78-e57e85d34033/acquisition/data_00001_AD0/capacitance_fast/0?versionId=_e_TZop18LIUgoJaoevlHXyTJ0xCxdmV
+1712055823.925862077s 1 https://api.dandiarchive.org/api/zarr/fd01fe56-9c26-4da3-9c78-e57e85d34033/files?prefix=acquisition%2Fdata_00001_AD0%2Fcapacitance_fast%2F0&download=true
+1712055824.695004123s 1 https://dandiarchive.s3.amazonaws.com/zarr/fd01fe56-9c26-4da3-9c78-e57e85d34033/acquisition/data_00002_AD0/capacitance_fast/0?versionId=P0rY_afVm0z0.8t1Sp7_2YY50_dhIxHz
+1712055824.697224203s 1 https://api.dandiarchive.org/api/zarr/fd01fe56-9c26-4da3-9c78-e57e85d34033/files?prefix=acquisition%2Fdata_00002_AD0%2Fcapacitance_fast%2F0&download=true
+1712055846.323220514s 1 https://dandiarchive.s3.amazonaws.com/zarr/fd01fe56-9c26-4da3-9c78-e57e85d34033/acquisition/data_00003_AD0/capacitance_fast/0?versionId=HPKxAi5V.U_eiEfHNIGg97EndZN7ELC4
+1712055846.325399126s 1 https://api.dandiarchive.org/api/zarr/fd01fe56-9c26-4da3-9c78-e57e85d34033/files?prefix=acquisition%2Fdata_00003_AD0%2Fcapacitance_fast%2F0&download=true
